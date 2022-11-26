@@ -9,25 +9,27 @@
 * [Слоўнікі](#dictionaries)
 * [Перакладчыкі](#translators)
 
-## Сховішчы з зыходным кодам ##
+## <a name="repositories"></a> Сховішчы з зыходным кодам ##
 
 * [Правільна! - Правілы беларускай арфаграфіі і пунктуацыі](https://github.com/alroniks/pravilnaby) [вэб-сайт](https://pravilna.by/)
 * [Kamputerm - Слоўнік беларускай кампутарнай тэрміналёгіі](https://github.com/quendimax/kamputerm)
 * [Тарашкевізатар](https://github.com/GooseOb/taraskevizatar)[вэб-сайт](https://gooseob.github.io/taraskevizatar/)
 
-## Бібліятэкі й энцыклапедыі ##
+## <a name="libraries"></a> Бібліятэкі й энцыклапедыі ##
 
 * [Беларуская Палічка — беларуская электронная бібліятэка](https://knihi.com/)
 * [Вікіпэдыя](https://be-tarask.wikipedia.org/wiki/Галоўная_старонка) [наркомаўка](https://be.wikipedia.org/wiki/Галоўная_старонка)
 
-## Слоўнікі ##
+## <a name="dictionaries"></a> Слоўнікі ##
 
 * [Slounik.org · Беларускія слоўнікі і энцыкляпэдыі](https://slounik.org/)
+* [SKARNIK - беларуска-рускі, руска-беларускі й тлумачальны слоўнік](https://www.skarnik.by/)
+* [Спецпошук — словы беларускай мовы | Адваротны слоўнік Старнік](https://starnik.by/)
 * [Belarusian (be) · Terminology | Mozilla’s Localization Platform](https://pontoon.mozilla.org/be/terminology/common)
 * [Мікола Савіцкі. Тлумачальны слоўнік па інфарматыцы. Мн.: Энцыклапедыкс, 2009](http://www.nastaunik.info/files/f/332_savicki.pdf)
 * [Тэрміналягічны слоўнік | UbuntuBelarusianTranslators/Dictionary - Ubuntu Wiki](https://wiki.ubuntu.com/UbuntuBelarusianTranslators/Dictionary)
 
-## Перакладчыкі ##
+## <a name="translators"></a> Перакладчыкі ##
 
 * [Онлайн перакладчык і слоўнік | HTML Translate |  OpenTran](https://be.opentran.net/)
 * [Google translate](https://translate.google.com/)
