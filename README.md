@@ -18,7 +18,9 @@
 ## <a name="libraries"></a> Бібліятэкі й энцыклапедыі ##
 
 * [Беларуская Палічка — беларуская электронная бібліятэка](https://knihi.com/)
-* [Вікіпэдыя](https://be-tarask.wikipedia.org/wiki/Галоўная_старонка) [наркомаўка](https://be.wikipedia.org/wiki/Галоўная_старонка)
+* [Вікіпэдыя](https://wikipedia.org)
+  * [Клясычная](https://be-tarask.wikipedia.org/wiki/Галоўная_старонка)
+  * [Наркомаўка](https://be.wikipedia.org/wiki/Галоўная_старонка)
 
 ## <a name="dictionaries"></a> Слоўнікі ##
 
