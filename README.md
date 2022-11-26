@@ -11,9 +11,10 @@
 
 ## <a name="repositories"></a> Сховішчы з зыходным кодам ##
 
-* [Правільна! - Правілы беларускай арфаграфіі і пунктуацыі](https://github.com/alroniks/pravilnaby) [[_вэб-сайт_](https://pravilna.by/)]
-* [Kamputerm - Слоўнік беларускай кампутарнай тэрміналёгіі](https://github.com/quendimax/kamputerm)
-* [Тарашкевізатар](https://github.com/GooseOb/taraskevizatar) [[_вэб-сайт_](https://gooseob.github.io/taraskevizatar/)]
+* [Правільна! - Правілы беларускай арфаграфіі і пунктуацыі](https://github.com/alroniks/pravilnaby.git) [[_вэб-сайт_](https://pravilna.by/)]
+* [Правапіс.org - a pioneer of the Bynet (archived version)](https://github.com/dyskurs/pravapis.org.git) [[_вэб-сайт_](https://pravapis.org.dyskurs.be/)]
+* [Kamputerm - Слоўнік беларускай кампутарнай тэрміналёгіі](https://github.com/quendimax/kamputerm.git)
+* [Тарашкевізатар](https://github.com/GooseOb/taraskevizatar.git) [[_вэб-сайт_](https://gooseob.github.io/taraskevizatar/)]
 
 ## <a name="libraries"></a> Бібліятэкі й энцыклапедыі ##
 
