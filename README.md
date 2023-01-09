@@ -16,7 +16,7 @@
 * [Kamputerm - Слоўнік беларускай кампутарнай тэрміналёгіі](https://github.com/quendimax/kamputerm.git)
 * [Тарашкевізатар](https://github.com/GooseOb/taraskevizatar.git) [[_вэб-сайт_](https://gooseob.github.io/taraskevizatar/)]
 
-## <a name="libraries"></a> Бібліятэкі й энцыклапедыі ##
+## <a name="libraries"></a> Бібліятэкі ды энцыклапедыі ##
 
 * [Беларуская Палічка — беларуская электронная бібліятэка](https://knihi.com/)
 * [РОДНЫЯ ВОБРАЗЫ](http://rv-blr.com/)
