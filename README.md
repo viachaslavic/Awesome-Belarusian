@@ -19,9 +19,10 @@
 ## <a name="libraries"></a> Бібліятэкі й энцыклапедыі ##
 
 * [Беларуская Палічка — беларуская электронная бібліятэка](https://knihi.com/)
+* [РОДНЫЯ ВОБРАЗЫ](http://rv-blr.com/)
 * [Вікіпэдыя](https://wikipedia.org)
   * [Клясычная](https://be-tarask.wikipedia.org/wiki/Галоўная_старонка)
-  * [Наркамаўка](https://be.wikipedia.org/wiki/Галоўная_старонка)
+  * [Школьная](https://be.wikipedia.org/wiki/Галоўная_старонка)
 
 ## <a name="dictionaries"></a> Слоўнікі ##
 
