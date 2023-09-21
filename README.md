@@ -15,6 +15,7 @@
 * [Правапіс.org - a pioneer of the Bynet (archived version)](https://github.com/dyskurs/pravapis.org.git) [[_вэб-сайт_](https://pravapis.org.dyskurs.be/)]
 * [Kamputerm - Слоўнік беларускай кампутарнай тэрміналёгіі](https://github.com/quendimax/kamputerm.git)
 * [Тарашкевізатар](https://github.com/GooseOb/taraskevizatar.git) [[_вэб-сайт_](https://gooseob.github.io/taraskevizatar/)]
+* [Граматычная база беларускай мовы](https://github.com/Belarus/GrammarDB.git) [[_вэб-сайт_](https://bnkorpus.info/grammar.be.html)]
 
 ## <a name="libraries"></a> Бібліятэкі ды энцыклапедыі ##
 
