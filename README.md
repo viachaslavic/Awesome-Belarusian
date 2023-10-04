@@ -30,6 +30,7 @@
 * [Slounik.org · Беларускія слоўнікі і энцыкляпэдыі](https://slounik.org/)
 * [SKARNIK - беларуска-рускі, руска-беларускі й тлумачальны слоўнік](https://www.skarnik.by/)
 * [Спецпошук — словы беларускай мовы | Адваротны слоўнік Старнік](https://starnik.by/)
+* [Verbum - Анлайнавы Слоўнік Беларускай Мовы](https://verbum.by/)
 * [Belarusian (be) · Terminology | Mozilla’s Localization Platform](https://pontoon.mozilla.org/be/terminology/common)
 * [Мікола Савіцкі. Тлумачальны слоўнік па інфарматыцы. Мн.: Энцыклапедыкс, 2009](http://www.nastaunik.info/files/f/332_savicki.pdf)
 * [Тэрміналягічны слоўнік | UbuntuBelarusianTranslators/Dictionary - Ubuntu Wiki](https://wiki.ubuntu.com/UbuntuBelarusianTranslators/Dictionary)
