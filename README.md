@@ -5,7 +5,7 @@
 ## Зьмест ##
 
 * [Сховішчы з зыходным кодам](#repositories)
-* [Бібліятэкі й энцыклапедыі](#libraries)
+* [Бібліятэкі ды энцыкляпэдыі](#libraries)
 * [Слоўнікі](#dictionaries)
 * [Перакладчыкі](#translators)
 
@@ -16,8 +16,10 @@
 * [Kamputerm - Слоўнік беларускай кампутарнай тэрміналёгіі](https://github.com/quendimax/kamputerm.git)
 * [Тарашкевізатар](https://github.com/GooseOb/taraskevizatar.git) [[_вэб-сайт_](https://gooseob.github.io/taraskevizatar/)]
 * [Граматычная база беларускай мовы](https://github.com/Belarus/GrammarDB.git) [[_вэб-сайт_](https://bnkorpus.info/grammar.be.html)]
+* [Іван Насовіч. Слоўнік беларускай мовы](https://github.com/Belarus/Slouniki-Nasovic.git) [[_вэб-сайт_](https://bnkorpus.info/grammar.be.html)]
+* [Беларуская навуковая тэрміналогія (БНТ)](https://github.com/Belarus/Slouniki-BNT.git)
 
-## <a name="libraries"></a> Бібліятэкі ды энцыклапедыі ##
+## <a name="libraries"></a> Бібліятэкі ды энцыкляпэдыі ##
 
 * [Беларуская Палічка — беларуская электронная бібліятэка](https://knihi.com/)
 * [РОДНЫЯ ВОБРАЗЫ](http://rv-blr.com/)
