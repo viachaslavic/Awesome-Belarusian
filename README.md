@@ -18,6 +18,7 @@
 * [Граматычная база беларускай мовы](https://github.com/Belarus/GrammarDB.git) [[_вэб-сайт_](https://bnkorpus.info/grammar.be.html)]
 * [Іван Насовіч. Слоўнік беларускай мовы](https://github.com/Belarus/Slouniki-Nasovic.git) [[_вэб-сайт_](https://bnkorpus.info/grammar.be.html)]
 * [Беларуская навуковая тэрміналогія (БНТ)](https://github.com/Belarus/Slouniki-BNT.git)
+* [Belarusian hunspel dictionary for taraškievica (classic orthography)](https://github.com/375gnu/spell-be-tarask.git)
 
 ## <a name="libraries"></a> Бібліятэкі ды энцыкляпэдыі ##
 
