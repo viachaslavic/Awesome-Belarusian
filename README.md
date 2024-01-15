@@ -20,6 +20,7 @@
 * [Беларуская навуковая тэрміналогія (БНТ)](https://github.com/Belarus/Slouniki-BNT.git)
 * [Dictionary for Belarusian language (recent academic orthography) in Hunspell format](https://github.com/mikalai-udodau/spell-be)
 * [Belarusian hunspel dictionary for taraškievica (classic orthography)](https://github.com/375gnu/spell-be-tarask.git)
+* [Генератар для Тлумачальнага слоўніка беларускай мовы у фармаце EPUB](https://github.com/belspectre/kindle_slounik.git)
 
 ## <a name="libraries"></a> Бібліятэкі ды энцыкляпэдыі ##
 
