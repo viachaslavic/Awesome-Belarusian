@@ -22,6 +22,7 @@
 * [Belarusian hunspel dictionary for taraškievica (classic orthography)](https://github.com/375gnu/spell-be-tarask.git)
 * [Генератар для Тлумачальнага слоўніка беларускай мовы у фармаце EPUB](https://github.com/belspectre/kindle_slounik.git)
 * [Бібліятэка дзеля трансітэрацыі беларускамоўных тэкстаў на арабіцу](https://github.com/atereshkin/arabify.git)
+* [Розныя беларускія слоўнікі ў фармаце XDXF / stardict з розных крыніц](https://github.com/375gnu/dictionaries.git)
 
 ## <a name="libraries"></a> Бібліятэкі ды энцыкляпэдыі ##
 
