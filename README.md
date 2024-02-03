@@ -23,6 +23,7 @@
 * [Генератар для Тлумачальнага слоўніка беларускай мовы у фармаце EPUB](https://github.com/belspectre/kindle_slounik.git)
 * [Бібліятэка дзеля трансітэрацыі беларускамоўных тэкстаў на арабіцу](https://github.com/atereshkin/arabify.git)
 * [Розныя беларускія слоўнікі ў фармаце XDXF / stardict з розных крыніц](https://github.com/375gnu/dictionaries.git)
+* [Belarusian Cyrillic to Latin converter](https://github.com/sevelev-ens/belarusian2latin)
 
 ## <a name="libraries"></a> Бібліятэкі ды энцыкляпэдыі ##
 
