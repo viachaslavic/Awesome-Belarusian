@@ -12,21 +12,22 @@
 
 ## <a name="repositories"></a> Рэпазыторыі з зыходным кодам ##
 
-* [Правільна! - Правілы беларускай арфаграфіі і пунктуацыі](https://github.com/alroniks/pravilnaby.git) [[_вэб-сайт_](https://pravilna.by/)]
-* [Правапіс.org - a pioneer of the Bynet (archived version)](https://github.com/dyskurs/pravapis.org.git) [[_вэб-сайт_](https://pravapis.org.dyskurs.be/)]
-* [Kamputerm - Слоўнік беларускай кампутарнай тэрміналёгіі](https://github.com/quendimax/kamputerm.git)
-* [Тарашкевізатар - Belarusian orthography converter](https://gooseob.github.io/taraskevizatar/)
-  * [NPM package](https://github.com/GooseOb/taraskevizer.git)
-  * [frontend](https://github.com/GooseOb/taraskevizatar.git)
-* [Граматычная база беларускай мовы](https://github.com/Belarus/GrammarDB.git) [[_вэб-сайт_](https://bnkorpus.info/grammar.be.html)]
-* [Іван Насовіч. Слоўнік беларускай мовы](https://github.com/Belarus/Slouniki-Nasovic.git) [[_вэб-сайт_](https://bnkorpus.info/grammar.be.html)]
-* [Беларуская навуковая тэрміналогія (БНТ)](https://github.com/Belarus/Slouniki-BNT.git)
-* [Dictionary for Belarusian language (recent academic orthography) in Hunspell format](https://github.com/mikalai-udodau/spell-be)
-* [Belarusian hunspel dictionary for taraškievica (classic orthography)](https://github.com/375gnu/spell-be-tarask.git)
-* [Генератар для Тлумачальнага слоўніка беларускай мовы у фармаце EPUB](https://github.com/belspectre/kindle_slounik.git)
-* [Бібліятэка дзеля трансітэрацыі беларускамоўных тэкстаў на арабіцу](https://github.com/atereshkin/arabify.git)
-* [Розныя беларускія слоўнікі ў фармаце XDXF / stardict з розных крыніц](https://github.com/375gnu/dictionaries.git)
-* [Belarusian Cyrillic to Latin converter](https://github.com/sevelev-ens/belarusian2latin)
+* [pravilnaby](https://github.com/alroniks/pravilnaby.git) - Belarusian language rules for daily usage [[_вэб-сайт_](https://pravilna.by)]
+* [pravapis.org](https://github.com/dyskurs/pravapis.org.git) - The archived version of the website pravapis.org — a pioneer of the Bynet [[_вэб-сайт_](https://pravapis.org.dyskurs.be)]
+* [kamputerm](https://github.com/quendimax/kamputerm.git) - Слоўнік беларускай кампутарнай тэрміналёгіі
+* [GrammarDB](https://github.com/Belarus/GrammarDB.git) - Grammar database of Belarusian language [[_вэб-сайт_](https://bnkorpus.info/grammar.be.html)]
+* [Slouniki-Nasovic](https://github.com/Belarus/Slouniki-Nasovic.git) - Іван Насовіч. Слоўнік беларускай мовы. Public domain. [[_вэб-сайт_](https://belarus.github.io/Slouniki-Nasovic/index.html)]
+* [Slouniki-BNT](https://github.com/Belarus/Slouniki-BNT.git) - Беларуская навуковая тэрміналогія (БНТ)
+* [spell-be](https://github.com/mikalai-udodau/spell-be.git) - ﻿Dictionary for Belarusian language (recent academic orthography) in Hunspell format.
+* [spell-be-tarask](https://github.com/375gnu/spell-be-tarask.git) - Belarusian hunspel dictionary for taraškievica (classic orthography)
+* [dictionaries](https://github.com/375gnu/dictionaries.git) - Various belarusian dictionaries in XDXF / stardict format from different sources
+* [kindle_slounik](https://github.com/belspectre/kindle_slounik.git) - Генератар для Тлумачальнага слоўніка беларускай мовы у фармаце EPUB
+* [arabify](https://github.com/atereshkin/arabify.git) - Бібліятэка дзеля трансітэрацыі беларускамоўных тэкстаў на арабіцу.
+* [taraskevizer](https://github.com/GooseOb/taraskevizer.git) - Belarusian orthography converter - NPM package
+  * [taraskevizatar](https://github.com/GooseOb/taraskevizatar.git) - Belarusian orthography converter - webapp [[_вэб-сайт_](https://gooseob.github.io/taraskevizatar/)]
+* [belarusian2latin](https://github.com/sevelev-ens/belarusian2latin.git) - Belarusian Cyrillic to Latin converter
+* [latynkatar](https://github.com/measles/latynkatar.git) - Канвертар з беларускай кірыліцы ў лацінку (з часам, спадзяюся, і назад)
+  * [latynkatar\_site](https://github.com/measles/latynkatar_site.git) - Сайт з узорам ужывання latynkatara
 
 ## <a name="web"></a> Вэб-сэрвісы ##
 
