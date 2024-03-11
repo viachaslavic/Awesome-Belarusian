@@ -27,7 +27,7 @@
   * [taraskevizatar](https://github.com/GooseOb/taraskevizatar.git) - Belarusian orthography converter - webapp [[_вэб-сайт_](https://gooseob.github.io/taraskevizatar/)]
 * [belarusian2latin](https://github.com/sevelev-ens/belarusian2latin.git) - Belarusian Cyrillic to Latin converter
 * [latynkatar](https://github.com/measles/latynkatar.git) - Канвертар з беларускай кірыліцы ў лацінку (з часам, спадзяюся, і назад)
-  * [latynkatar\_site](https://github.com/measles/latynkatar_site.git) - Сайт з узорам ужывання latynkatara
+  * [latynkatar\_site](https://github.com/measles/latynkatar_site.git) - Сайт з узорам ужывання latynkatara [[_вэб-сайт_](https://latynkatar.org/)]
 
 ## <a name="web"></a> Вэб-сэрвісы ##
 
