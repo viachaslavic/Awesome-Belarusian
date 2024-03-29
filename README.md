@@ -29,6 +29,8 @@
 * [belarusian2latin](https://github.com/sevelev-ens/belarusian2latin.git) - Belarusian Cyrillic to Latin converter [[_вэб-сайт_](https://seveleu.com/lacinka/converter)]
 * [latynkatar](https://github.com/measles/latynkatar.git) - Канвертар з беларускай кірыліцы ў лацінку (з часам, спадзяюся, і назад)
   * [latynkatar\_site](https://github.com/measles/latynkatar_site.git) - Сайт з узорам ужывання latynkatara [[_вэб-сайт_](https://latynkatar.org/)]
+* [lacinka](https://github.com/michaskruzelka/lacinka.git) - Belarusian Latin Alphabet Converter
+* [belarusianlacinka](https://github.com/pikoshyk/belarusianlacinka.git) - Канвертар беларускай лацінкі | Swift
 
 ## <a name="web"></a> Вэб-сэрвісы ##
 
