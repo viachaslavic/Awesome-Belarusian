@@ -22,15 +22,15 @@
 * [spell-be-tarask](https://github.com/375gnu/spell-be-tarask.git) - Belarusian hunspel dictionary for taraškievica (classic orthography)
 * [dictionaries](https://github.com/375gnu/dictionaries.git) - Various belarusian dictionaries in XDXF / stardict format from different sources
 * [kindle_slounik](https://github.com/belspectre/kindle_slounik.git) - Генератар для Тлумачальнага слоўніка беларускай мовы у фармаце EPUB
-* [arabify](https://github.com/atereshkin/arabify.git) - Бібліятэка дзеля трансітэрацыі беларускамоўных тэкстаў на арабіцу.
+* [arabify](https://github.com/atereshkin/arabify.git) - Бібліятэка дзеля трансітэрацыі беларускамоўных тэкстаў на арабіцу. ![``JavaScript``][JavaScript]
   * [arabica](https://github.com/atereshkin/arabica.git) [[_вэб-сайт_](https://arabica.space/)]
-* [taraskevizer](https://github.com/GooseOb/taraskevizer.git) - Belarusian orthography converter - NPM package
+* [taraskevizer](https://github.com/GooseOb/taraskevizer.git) - Belarusian orthography converter - NPM package ![``TypeScript``][TypeScript]
   * [taraskevizatar](https://github.com/GooseOb/taraskevizatar.git) - Belarusian orthography converter - webapp [[_вэб-сайт_](https://gooseob.github.io/taraskevizatar/)]
-* [belarusian2latin](https://github.com/sevelev-ens/belarusian2latin.git) - Belarusian Cyrillic to Latin converter [[_вэб-сайт_](https://seveleu.com/lacinka/converter)]
-* [latynkatar](https://github.com/measles/latynkatar.git) - Канвертар з беларускай кірыліцы ў лацінку (з часам, спадзяюся, і назад)
+* [belarusian2latin](https://github.com/sevelev-ens/belarusian2latin.git) - Belarusian Cyrillic to Latin converter [[_вэб-сайт_](https://seveleu.com/lacinka/converter)] ![``Python``][Python]
+* [latynkatar](https://github.com/measles/latynkatar.git) - Канвертар з беларускай кірыліцы ў лацінку (з часам, спадзяюся, і назад) ![``Python``][Python]
   * [latynkatar\_site](https://github.com/measles/latynkatar_site.git) - Сайт з узорам ужывання latynkatara [[_вэб-сайт_](https://latynkatar.org/)]
-* [lacinka](https://github.com/michaskruzelka/lacinka.git) - Belarusian Latin Alphabet Converter
-* [belarusianlacinka](https://github.com/pikoshyk/belarusianlacinka.git) - Канвертар беларускай лацінкі | Swift
+* [lacinka](https://github.com/michaskruzelka/lacinka.git) - Belarusian Latin Alphabet Converter ![``PHP``][PHP]
+* [belarusianlacinka](https://github.com/pikoshyk/belarusianlacinka.git) - Канвертар беларускай лацінкі | Swift ![``Swift``][Swift]
 
 ## <a name="web"></a> Вэб-сэрвісы ##
 
@@ -56,3 +56,10 @@
 
 * [Онлайн перакладчык і слоўнік | HTML Translate |  OpenTran](https://be.opentran.net/)
 * [Google translate](https://translate.google.com/)
+
+
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[PHP]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Swift]: https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white
+[TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
