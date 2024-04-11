@@ -12,6 +12,10 @@
 
 ## <a name="repositories"></a> Рэпазыторыі з зыходным кодам ##
 
+* WORDLE
+  * [wordle-by](https://github.com/OloloPhilolo/wordle-by.git) - ЎОРДЛІ [[_веб-сайт_](https://ololophilolo.github.io/wordle-by/)]
+  * [wordle-by-lac](https://github.com/demidov91/wordle-by-lac.git) - UORDL [[_вэб-сайт_](https://demidov91.github.io/wordle-by-lac/)]
+* [mova-cards](https://github.com/andy-voz/mova-cards.git) - Application for learning Belarusian words
 * [pravilnaby](https://github.com/alroniks/pravilnaby.git) - Belarusian language rules for daily usage [[_вэб-сайт_](https://pravilna.by)]
 * [pravapis.org](https://github.com/dyskurs/pravapis.org.git) - The archived version of the website pravapis.org — a pioneer of the Bynet [[_вэб-сайт_](https://pravapis.org.dyskurs.be)]
 * [kamputerm](https://github.com/quendimax/kamputerm.git) - Слоўнік беларускай кампутарнай тэрміналёгіі
