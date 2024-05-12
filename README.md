@@ -35,6 +35,7 @@
   * [latynkatar\_site](https://github.com/measles/latynkatar_site.git) - Сайт з узорам ужывання latynkatara [[_вэб-сайт_](https://latynkatar.org/)]
 * [lacinka](https://github.com/michaskruzelka/lacinka.git) - Belarusian Latin Alphabet Converter
 * [belarusianlacinka](https://github.com/pikoshyk/belarusianlacinka.git) - Канвертар беларускай лацінкі | Swift
+* [belorthography](https://github.com/belaudiobooks/belorthography.git) - Libraries for converting Belarusian cyrillic text to lacinka
 
 ## <a name="web"></a> Вэб-сэрвісы ##
 
