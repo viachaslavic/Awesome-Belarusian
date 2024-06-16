@@ -19,6 +19,9 @@
 * [pravilnaby](https://github.com/alroniks/pravilnaby.git) - Belarusian language rules for daily usage [[_вэб-сайт_](https://pravilna.by)]
 * [pravapis.org](https://github.com/dyskurs/pravapis.org.git) - The archived version of the website pravapis.org — a pioneer of the Bynet [[_вэб-сайт_](https://pravapis.org.dyskurs.be)]
 * [kamputerm](https://github.com/quendimax/kamputerm.git) - Слоўнік беларускай кампутарнай тэрміналёгіі
+* verbumby
+  * [verbum](https://github.com/verbumby/verbum.git) - Online dictionary platform [[_вэб-сайт_](https://verbum.by/)]
+  * [slouniki ](https://github.com/verbumby/slouniki.git) - Зыходныя файлы слоўнікаў
 * [GrammarDB](https://github.com/Belarus/GrammarDB.git) - Grammar database of Belarusian language [[_вэб-сайт_](https://bnkorpus.info/grammar.be.html)]
 * [Slouniki-Nasovic](https://github.com/Belarus/Slouniki-Nasovic.git) - Іван Насовіч. Слоўнік беларускай мовы. Public domain. [[_вэб-сайт_](https://belarus.github.io/Slouniki-Nasovic/index.html)]
 * [Slouniki-BNT](https://github.com/Belarus/Slouniki-BNT.git) - Беларуская навуковая тэрміналогія (БНТ)
@@ -52,7 +55,6 @@
 * [Slounik.org · Беларускія слоўнікі і энцыкляпэдыі](https://slounik.org/)
 * [SKARNIK - беларуска-рускі, руска-беларускі й тлумачальны слоўнік](https://www.skarnik.by/)
 * [Спецпошук — словы беларускай мовы | Адваротны слоўнік Старнік](https://starnik.by/)
-* [Verbum - Анлайнавы Слоўнік Беларускай Мовы](https://verbum.by/)
 * [Belarusian (be) · Terminology | Mozilla’s Localization Platform](https://pontoon.mozilla.org/be/terminology/common)
 * [Мікола Савіцкі. Тлумачальны слоўнік па інфарматыцы. Мн.: Энцыклапедыкс, 2009](http://www.nastaunik.info/files/f/332_savicki.pdf)
 * [Тэрміналягічны слоўнік | UbuntuBelarusianTranslators/Dictionary - Ubuntu Wiki](https://wiki.ubuntu.com/UbuntuBelarusianTranslators/Dictionary)
