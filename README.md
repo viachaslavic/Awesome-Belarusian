@@ -39,6 +39,7 @@
 * [lacinka](https://github.com/michaskruzelka/lacinka.git) - Belarusian Latin Alphabet Converter
 * [belarusianlacinka](https://github.com/pikoshyk/belarusianlacinka.git) - Канвертар беларускай лацінкі | Swift
 * [belorthography](https://github.com/belaudiobooks/belorthography.git) - Libraries for converting Belarusian cyrillic text to lacinka
+* [be-latinizer](https://github.com/GooseOb/be-latinizer.git) - Tool for latinization files in Belarusian
 
 ## <a name="web"></a> Вэб-сэрвісы ##
 
