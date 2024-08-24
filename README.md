@@ -12,6 +12,7 @@
 
 ## <a name="repositories"></a> Рэпазыторыі з зыходным кодам ##
 
+* [belarusian-go-dictionary](https://github.com/hleb-kastseika/belarusian-go-dictionary.git) -  Слоўнік асноўных тэрмінаў настольнай гульні го
 * WORDLE
   * [wordle-by](https://github.com/OloloPhilolo/wordle-by.git) - ЎОРДЛІ [[_веб-сайт_](https://ololophilolo.github.io/wordle-by/)]
   * [wordle-by-lac](https://github.com/demidov91/wordle-by-lac.git) - UORDL [[_вэб-сайт_](https://demidov91.github.io/wordle-by-lac/)]
@@ -33,6 +34,7 @@
   * [arabica](https://github.com/atereshkin/arabica.git) [[_вэб-сайт_](https://arabica.space/)]
 * [taraskevizer](https://github.com/GooseOb/taraskevizer.git) - Belarusian orthography converter - NPM package
   * [taraskevizatar](https://github.com/GooseOb/taraskevizatar.git) - Belarusian orthography converter - webapp [[_вэб-сайт_](https://gooseob.github.io/taraskevizatar/)]
+* [kanviertar](https://github.com/PlagaMedicum/kanviertar.git) - Канвертар класічнага правапісу ў акадэмічны
 * [belarusian2latin](https://github.com/sevelev-ens/belarusian2latin.git) - Belarusian Cyrillic to Latin converter [[_вэб-сайт_](https://seveleu.com/lacinka/converter)]
 * [latynkatar](https://github.com/measles/latynkatar.git) - Канвертар з беларускай кірыліцы ў лацінку (з часам, спадзяюся, і назад)
   * [latynkatar\_site](https://github.com/measles/latynkatar_site.git) - Сайт з узорам ужывання latynkatara [[_вэб-сайт_](https://latynkatar.org/)]
