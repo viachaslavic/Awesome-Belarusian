@@ -43,6 +43,7 @@
 * [belorthography](https://github.com/belaudiobooks/belorthography.git) - Libraries for converting Belarusian cyrillic text to lacinka
 * [be-latinizer](https://github.com/GooseOb/be-latinizer.git) - Tool for latinization files in Belarusian
 * [BelarusianConverter](https://github.com/alelisicyna/BelarusianConverter.git) - Script who convert some Belarusian texts from Cyrillic to other Belarusian alphabets
+* [espeak-ng ](https://github.com/espeak-ng/espeak-ng.git) - open source speech synthesizer that supports more than hundred languages and accents. (патрымлівае беларускую)
 
 ## <a name="web"></a> Вэб-сэрвісы ##
 
